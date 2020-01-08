@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>Carl-DS</title>
+    <updated>2020-01-08T07:59:07.399Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2020, Carl-DS</rights>
+    <entry>
+        <title type="html"><![CDATA[ GO并发]]></title>
+        <id>http://localhost:4000/post/go-bing-fa</id>
+        <link href="http://localhost:4000/post/go-bing-fa">
+        </link>
+        <updated>2019-06-09T01:52:19.000Z</updated>
+        <content type="html"><![CDATA[<p>并发: 逻辑上具备同时处理多个任务的能力<br>
+并行: 物理上在同一时刻执行多个并发任务</p>
+<p>通常情况下,用多进程来实现分布式和负载平衡,减轻单进程垃圾回收压力;用多线程(LWP)抢夺更多的处理器资源;用协程来提高处理器时间片利用率.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-06-09]]></title>
+        <id>http://localhost:4000/post/2019-06-09</id>
+        <link href="http://localhost:4000/post/2019-06-09">
+        </link>
+        <updated>2019-06-09T00:42:09.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="端午假期">端午假期</h1>
+<p>该行为摘要内容,关于端午的摘要</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="端午假期">端午假期</h1>
+<p>该行为摘要内容,关于端午的摘要</p>
+<!-- more -->
+<p>端午节是东亚文化圈的传统节日，定在每年农历五月初五，别称端阳节、端日节、午日节、粽子节、天中节、五月节、五日节、艾节、端五、重午、重五、午日、夏节、菖蒲节，本来是夏季的一个送离五瘟神，驱除瘟疫的节日。战国时期的楚国爱国诗人屈原于这一日投江自尽，后在中国演化为端午节，以纪念屈原，有人称其为诗人节（有些地方是纪念吴国忠臣伍子胥的忌日），是华人四大节日之一，与新年、中秋等节日同属东亚文化圈的中国大陆、香港、澳门、台湾、琉球、日本、朝鲜半岛、越南的重要传统节日。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>http://localhost:4000/post/hello-gridea</id>
+        <link href="http://localhost:4000/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
